@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'healthequal': Calculates summary measures of health inequality Use healthequal With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f healthequal.ado
+f healthequal.sthlp
