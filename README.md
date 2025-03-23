@@ -1,5 +1,7 @@
 # healthequal
-Calculates summary measures of health inequality Use healthequal With STATA
+Calculates summary measures of health inequality Use healthequal With STATA 18
+
+https://www.youtube.com/watch?v=bh6ephcMudE
 
 Olah Data Semarang
 
